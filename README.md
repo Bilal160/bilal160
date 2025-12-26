@@ -55,110 +55,15 @@ I believe **good engineering is about clarity, scalability, and long-term reliab
 - RAG (Retrieval-Augmented Generation)
 - AI Chatbots & Agents
 
----
-
-## 💼 Professional Experience
-
-### **Lead Software Engineer — TechXpert**
-**Oct 2022 – Present**
-
-- Architected scalable backend systems using **Node.js, Express & FastAPI**
-- Designed optimized **MongoDB schemas** for performance & growth
-- Built **AI-powered solutions** using LangChain, LangGraph & LLMs
-- Managed **CI/CD pipelines** with Docker & GitHub Actions
-- Enforced security best practices & authentication flows
-- Mentored junior developers & led code reviews
-- Collaborated across frontend & mobile teams for production delivery
-
----
-
-### **Software Engineer — Tech Media Agency**
-**Mar 2021 – Sep 2021**
-
-- Developed MERN stack applications
-- Built RESTful APIs using Node.js & Express
-- Designed React + Redux frontend architectures
-- Optimized database performance
-- Worked closely with stakeholders to meet business goals
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 Car Rental App (Belius) – Switzerland
-Backend & Seller Dashboard  
-- Real-time vehicle availability  
-- Secure booking & location-based services  
-
-🔗 Seller Dashboard: https://melodic-horse-060c05.netlify.app/  
-📱 App Store: https://apps.apple.com/pk/app/think-true-cost/id6737412086  
-
----
-
-### 🐶 Pet Care Platform (Elder Pet)
-Next.js + NestJS  
-- Pet Owner & Veterinary roles  
-- Video calls (Agora integration)  
-- Secure RBAC authentication  
-
-🔗 https://steady-beignet-dd516f.netlify.app/
-
----
-
-### 🤖 AI Marketplace (Lusso.AI)
-Frontend development  
-- Reusable components  
-- Product management & optimization  
-
-🔗 https://www.lusso.ai/
-
----
-
-### 🛒 E-Commerce App with AI Chatbot (Convy)
-- Backend + Admin Panel  
-- AI chatbot using LangChain  
-
-📱 https://apps.apple.com/us/app/convy/id6657994872
-
----
-
-### ✈️ Travel App (SEEK)
-Backend & Admin Dashboard  
-
-📱 https://apps.apple.com/us/app/seek-travel-discover/id6470000911
-
----
-
-## 🌐 Landing Pages & Web Projects
-- https://twinbotz.com  
-- https://is-kool.com  
-- https://piggy-portfolio.netlify.app/  
-- https://creative-squirrel-f11119.netlify.app/  
-
----
 
 ## 📊 GitHub Stats
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true)
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilal160&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal160&layout=compact)
 
-> 🔧 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> 🔧 Replace `bilal160` with your actual GitHub username.
 
----
-
-## 🎓 Education
-**Bachelor of Science in Software Engineering**  
-University of Okara
-
----
-
-## 📜 Certifications
-- Python for Everybody – Coursera  
-- React – The Complete Guide (Udemy)  
-- Node.js Masterclass (Udemy)  
-
----
 
 ## 📫 Let’s Connect
 
